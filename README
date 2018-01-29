@@ -1,0 +1,8 @@
+Steps to run the projects :
+
+API 
+1. Just download and open the course-api project in neatbeans or spring tool suit run run it.
+
+Web APP
+First install all dependecicies for angular 4/5 and the goto course-web project directory and run the command "ng serve"
+
